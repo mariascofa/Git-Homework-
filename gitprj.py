@@ -23,4 +23,5 @@ for _ in range (max-min):
     pt1.move()
 
     print ("first commit")
+    print("second commit")
 
